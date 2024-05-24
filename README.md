@@ -4,8 +4,8 @@
 The project is designed to demonstrate working with goroutines, canals. Also such synchronization primitive as WaitGroup was used.
 
 ### Requirements:
-![golang](https://badgen.net/static/go/1.22.0/green?icon=github)
-You can install Golang <a href="https://go.dev/doc/install">there</a><br/>
+![golang](https://badgen.net/static/go/1.22.0/green?icon=github)<br/>
+You can install Golang <a href="https://go.dev/doc/install">there</a>
 
 ### Installing:
 1. Clone repository 
