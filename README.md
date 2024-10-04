@@ -1,7 +1,7 @@
 ﻿# LangRoutine
 > Asynchronous analysis of text in files to determine language. Based on lingua-go library
 
-The project is designed to demonstrate working with goroutines, canals. Also such synchronization primitive as WaitGroup was used.
+The project is designed to demonstrate working with goroutines, channels. Also such synchronization primitive as WaitGroup was used.
 
 ### Requirements:
 ![golang](https://badgen.net/static/go/1.22.0/green?icon=github)<br/>
